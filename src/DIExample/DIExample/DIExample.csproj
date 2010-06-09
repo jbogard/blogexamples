@@ -95,6 +95,7 @@
     <Compile Include="Services\ViewPageBase.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Services\ViewResult.cs" />
     <Compile Include="Services\WrappedView.cs" />
   </ItemGroup>
   <ItemGroup>
